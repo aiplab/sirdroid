@@ -1,0 +1,44 @@
+[Box:  - ::edu.uprm.aiplab]
+X=658
+Y=414
+
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
+[Box: ::edu.uprm.aiplab - ::<<Unknown>>::Activity]
+X=240
+Y=40
+
+[Box: ::edu.uprm.aiplab - ::<<Unknown>>::BaseAdapter]
+X=445
+Y=40
+
+[Box: ::edu.uprm.aiplab - ::<<Unknown>>::Thread]
+X=28
+Y=40
+
+[Box: ::edu.uprm.aiplab - ::edu.uprm.aiplab::ImageAdapter]
+X=445
+Y=121
+
+[Box: ::edu.uprm.aiplab - ::edu.uprm.aiplab::Microphone]
+X=225
+Y=333
+
+[Box: ::edu.uprm.aiplab - ::edu.uprm.aiplab::SirlabAndroid]
+X=20
+Y=333
+
+[Box: ::edu.uprm.aiplab - ::edu.uprm.aiplab::TestActivity]
+X=240
+Y=121
+
+[Diagram: ::edu.uprm.aiplab]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
